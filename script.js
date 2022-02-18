@@ -1,5 +1,5 @@
 /***Immediately Invoked Function Exression (IIFE)***/
-(function (window) {
+(function () {
 
     var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
     
