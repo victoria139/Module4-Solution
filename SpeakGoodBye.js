@@ -1,4 +1,3 @@
-/***Immediately Invoked Function Exression (IIFE)***/
 (function (window){
     var byeSpeaker = {};
     var speakWord = "Good Bye";
